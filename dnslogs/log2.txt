@@ -1,0 +1,3 @@
+
+01-Apr-2015 10:00:01.000 client 8.9.74.225#52755: query: www.amazon.com IN A + ((8.8.8.8))
+01-Apr-2015 10:00:02.000 client 135.130.71.166#51628: query: vpc.altitude-arena.com IN A + ((8.8.8.8))

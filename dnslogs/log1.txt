@@ -1,0 +1,4 @@
+
+01-Apr-2015 09:59:55.025 client 251.92.84.43#59338: query: u-ads.adap.tv IN A + ((8.8.8.8))
+01-Apr-2015 09:59:55.189 client 8.9.74.225#51628: query: www.google.com IN A + ((8.8.8.8))
+01-Apr-2015 09:59:55.315 client 162.85.35.54#52755: query: ping3.teamviewer.com IN A + ((8.8.8.8))
